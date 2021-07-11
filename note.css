@@ -1,0 +1,10 @@
+#main{
+    margin-top: 2rem;
+}
+.mark-as-done{
+    text-decoration: line-through;
+    color: rgb(241, 37, 37);
+}
+#gradient{
+    background: linear-gradient(to right, red, yellow);
+}
